@@ -1,0 +1,23 @@
+{
+  "name": "get-happy-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-ch/get-happy-pack.git"
+  },
+  "keywords": [
+    "Happypack",
+    "weback"
+  ],
+  "author": "AXA Versicherungen AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axa-ch/get-happy-pack/issues"
+  },
+  "homepage": "https://github.com/axa-ch/get-happy-pack#readme"
+}
